@@ -1,3 +1,3 @@
-# odyssey-lab.github.io
+# Odyssey
 
-[Privacy Policy](https://odyssey-lab.github.io/privacy-policy.html)
+[Privacy Policy](https://odyssey-lab.github.io/privacy-policy.md)
