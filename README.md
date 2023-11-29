@@ -1,5 +1,5 @@
 # Odyssey
 
-[Privacy Policy](https://odyssey-lab.github.io/privacy-policy.md)
+[Privacy Policy](https://odyssey-lab.github.io/privacy-policy.html)
 
-[Terms of Condtions](https://odyssey-lab.github.io/toc.md)
+[Terms of Condtions](https://odyssey-lab.github.io/toc.html)
